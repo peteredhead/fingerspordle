@@ -1,0 +1,27 @@
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  text-align: center;
+  font-size: 1em;
+  font-family: verdana;
+  margin: 0;
+}
+h1 {
+  font-size: 1.2em;
+  padding: 20px 0;
+  border-bottom: 1px solid #eee;
+  margin: 0 0 30px 0;
+  color: #333;
+}
+/* rows */
+
+
+
+.video {
+  width: 480px;
+  max-width: 95vw;
+  max-height: calc(100vh - 40rem)
+}

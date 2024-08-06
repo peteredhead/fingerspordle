@@ -1,0 +1,43 @@
+.instructions__button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+.instructions__modal-wrapper {
+  position: absolute;
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.instructions__modal {
+  padding: 1rem;
+  top: 4rem;
+  border: 1px solid;
+  /* width: 90vw; */
+  /* height: 90vh; */
+  max-width: 50rem;
+  max-height: 60rem;
+  border: 1px solid #333;
+  background-color: white;
+  z-index: 1;
+}
+
+.instructions__image {
+  max-height: 7rem;
+}
+
+.instructions__play-button {
+  margin-top: 1rem;
+  font-size: 2rem;
+  border: 0;
+  background-color: rgb(3, 3, 115);
+  color: white;
+  padding: 0.25rem 3rem;
+}

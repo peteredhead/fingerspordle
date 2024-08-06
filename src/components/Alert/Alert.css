@@ -1,0 +1,8 @@
+.alert-wrapper {
+  height: 2rem
+}
+
+.alert {
+  transition: height 1s ease-in-out;
+  overflow: hidden;
+}
