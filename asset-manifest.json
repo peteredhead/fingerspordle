@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fingerspordle/static/css/main.a7effd28.css",
-    "main.js": "/fingerspordle/static/js/main.79e99e1e.js",
+    "main.js": "/fingerspordle/static/js/main.4a06f8e1.js",
     "static/js/453.5e367683.chunk.js": "/fingerspordle/static/js/453.5e367683.chunk.js",
     "index.html": "/fingerspordle/index.html",
     "main.a7effd28.css.map": "/fingerspordle/static/css/main.a7effd28.css.map",
-    "main.79e99e1e.js.map": "/fingerspordle/static/js/main.79e99e1e.js.map",
+    "main.4a06f8e1.js.map": "/fingerspordle/static/js/main.4a06f8e1.js.map",
     "453.5e367683.chunk.js.map": "/fingerspordle/static/js/453.5e367683.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7effd28.css",
-    "static/js/main.79e99e1e.js"
+    "static/js/main.4a06f8e1.js"
   ]
 }
